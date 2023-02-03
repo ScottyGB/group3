@@ -6,10 +6,10 @@
 
 ### Team members
 
-- George Scott, 20104130@stu.mmu.ac.uk (mailto:myaddress@test.com)
-- Kate Flaherty, 20104133@stu.mmu.ac.uk (mailto:myaddress@test.com)
-- Orlagh McKendry, 20106181@stu.mmu.ac.uk (mailto:myaddress@test.com)
-- Marianne Cordt, 19094658@stu.mmu.ac.uk (mailto:myaddress@test.com)
+- George Scott, 20104130@stu.mmu.ac.uk (mailto:20104130@stu.mmu.ac.uk)
+- Kate Flaherty, 20104133@stu.mmu.ac.uk (mailto:20104133@stu.mmu.ac.uk)
+- Orlagh McKendry, 20106181@stu.mmu.ac.uk (mailto:20106181@stu.mmu.ac.uk)
+- Marianne Cordt, 19094658@stu.mmu.ac.uk (mailto:19094658@stu.mmu.ac.uk)
 
 ## TL;DR Assessment overview
 
