@@ -2,15 +2,14 @@
 
 <!-- Complete these first two sections. -->
 
-## Your Team number and name
+## Group 3 - Applied Web Development Project
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- George Scott, 20104130@stu.mmu.ac.uk (mailto:myaddress@test.com)
+- Kate Flaherty, 20104133@stu.mmu.ac.uk (mailto:myaddress@test.com)
+- Orlagh McKendry, 20106181@stu.mmu.ac.uk (mailto:myaddress@test.com)
+- Marianne Cordt, 19094658@stu.mmu.ac.uk (mailto:myaddress@test.com)
 
 ## TL;DR Assessment overview
 
