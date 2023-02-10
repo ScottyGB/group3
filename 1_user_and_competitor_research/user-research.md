@@ -74,19 +74,19 @@
 
 
 #### Profile 5:
-- Name
+- Name:
 Jessica Arnison 
 
-- Age
+- Age:
 21
 
-- Occupation
+- Occupation:
 Engineering Apprentice 
 
-- Description or quote
+- Description or quote:
 “I am an engineering apprentice, I live in Greater Manchester with my parents and commute to Warrington for work. I am a busy individual, I enjoy having my weekends full of fun activities to do to have a break from work. I am a coach at my local athletics club and most weekends I travel to new places around the UK for competitions. When I am travelling I often look on TripAdvisor to find nice restaurants that are also affordable for my students as most of them are students in highschool or college”
 
-- Likes
+- Likes:
 Athletics 
 Sports 
 Travelling 
@@ -103,7 +103,7 @@ Festivals
 Gigs and concerts 
 Nightclubs 
 
-- Dislikes
+- Dislikes:
 Expensive bars 
 Art galleries 
 Indie or alternative bands/music 
@@ -111,24 +111,24 @@ Places that it is compulsory on smart dress wear
 Unorganised nights out 
 
 
-- Needs and goals
+- Needs and goals:
 I expect to have a user friendly, easy to navigate website that allows me to view a wide range of activities to do in Manchester that are specified to my interests. It should also allow me to input my interests through a survey then recommend places from my preferences/ interests. The activities recommended should be affordable and within my budget. I would also would need to see reviews on the places recommended especially for restaurants and a link directly to the restaurant website to book a table. 
 
 
 #### Profile 6:
-- Name
+- Name:
 Emily Lewtas
 
-- Age
+- Age:
 21
 
-- Occupation
+- Occupation:
 Undergraduate History student 
 
-- Description or quote
+- Description or quote:
 “I am currently an undergraduate student studying History and archaeology at Bangor University. I travel back home to Manchester most weekends for work as I am a receptionist at the imperial war museum in Manchester. I love my job as I have a passion for history and culture. I am a big Manchester united and rugby Salford Red devils fan, my family has a season ticket so I often go to games when I am home” 
 
-- Likes
+- Likes:
 Day trips 
 Rugby 
 Football (Manchester United) 
@@ -141,7 +141,7 @@ Sports bars where I can watch the football or the rugby
 Cafes 
 
 
-- Dislikes
+- Dislikes:
 Nightclubs 
 Social media except for sport updates 
 Like facts and reasoning behind things 
@@ -149,7 +149,7 @@ Films
 Reality TV 
 
 
-- Needs and goals
+- Needs and goals:
 Would like a website that recommends bars in Manchester that will play premier league football games and have sky sports for rugby games also. I would like to see if certain restaurants/shops offer student discount. I also like to find out more about day trips I can do which are also historical. 
 
 ---
