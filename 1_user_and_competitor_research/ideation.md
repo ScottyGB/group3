@@ -10,6 +10,29 @@ Put your media in the `sp1-media` folder.
 
 Embed the images in the markdown file using either of these methods.
 
+<ul>Ideation Report</ul>
+
+As a group, we gathered and read through the project brief in the first week of the unit. Using the crazy 8's ideation method, we rapidly developed themes and ideas in a short space of time. This led to us having a wide variety of potential projects. Listed below are the examples we came up with during the project ideation stage:
+
+- A guide to bars in Manchester.
+- A guide to driving as a student.
+- A guide to student accomodation in Manchester.
+- A guide to arranging student finance.
+- A guide to managing general finances.
+- A guide to having fun in Manchester.
+- A guide to living a green life as a student.
+- A guide to public transport in Manchester.
+
+
+Once these were established, we debated amongst ourselves which project we thought would be most suitable. Our criteria was as follows:
+
+- Which project will we enjoy working on the most?
+- Which project will be as inclusive as possible for our target audience?
+- Which project will provide information that is not readily available currently to our target audience?
+- Which project will provide us with ample opportunity to include all elements required in the unit specification?
+
+In doing the above stages, the group The topic we have chosen for our group project is "A Guide to Affordable Fun in Manchester." We chose this as our topic of focus as we believe it meets the requirements of a 
+
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
 
 ```
