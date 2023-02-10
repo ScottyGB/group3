@@ -6,22 +6,38 @@
 
 ---
 
-## Profiles
+## Profiles 
+#### Profile 1:
 
-- Name
+- Name: Lela 
 
-- Age
+- Age: 20 
 
-- Occupation
+- Occupation: Full time Psychology student 
 
-- Description or quote
+- Description or quote: Enjoys finding new music and going out to restaurants with friends and having a few drinks on the side. 
 
-- Likes
+- Likes: Music, fashion, food, dogs, nights out, art 
 
-- Dislikes
+- Dislikes: Posh clubs/bar, sports
 
-- Needs and goals
+- Needs and goals: To meet new people and to expand my palette
 
+#### Profile 2:
+
+- Name: Sam 
+
+- Age: 21
+
+- Occupation: Degree Apprentice  
+
+- Description or quote: Enjoys going to the pub with friends, especially to watch the football and have a beer.  
+
+- Likes: Football, drinking, cars, films, friends, bars and pubs, skiing.
+
+- Dislikes: nightclubs, art galleries, museums and reading.
+
+- Needs and goals: A fun and sociable weekend after a long week at work. 
 ---
 
 <!--This can be deleted prior to submission -->
