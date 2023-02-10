@@ -10,7 +10,7 @@ Put your media in the `sp1-media` folder.
 
 Embed the images in the markdown file using either of these methods.
 
-<ul>Ideation Report</ul>
+<h1>Ideation Report</h1>
 
 As a group, we gathered and read through the project brief in the first week of the unit. Using the crazy 8's ideation method, we rapidly developed themes and ideas in a short space of time. This led to us having a wide variety of potential projects. Listed below are the examples we came up with during the project ideation stage:
 
