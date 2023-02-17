@@ -23,7 +23,7 @@ As a group, we gathered and read through the project brief in the first week of 
 * A guide to living a green life as a student.
 * A guide to public transport in Manchester.
 
-<img src="insert link here" alt="Our Crazy 8's Ideation Sheet" title="Crazy 8's">
+<img src="sp1-media/crazy 8's.jpg" alt="Our Crazy 8's Ideation Sheet" title="Crazy 8's">
 
 
 Once these were established, we debated amongst ourselves which project we thought would be most suitable. Our criteria was as follows:
