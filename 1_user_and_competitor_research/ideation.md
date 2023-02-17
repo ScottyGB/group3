@@ -30,14 +30,3 @@ Once this criteria has been debated, the topic we chose for our group project wa
 
 After the ideation process, the group seemed fairly confident in the decision as we had covered a lot of potential bases and universally agreed on a final project. We liked being able to express any idea that came to us as this ensured we weren't solutionising during the ideation phase.
 
-
-
-```
-<img src="sp1-media/octocat.png" alt="Octocat" title="something">
-```
-
-
-
-```
-![Alt text](sp1-media/octocat.png?raw=true "Title")
-```
