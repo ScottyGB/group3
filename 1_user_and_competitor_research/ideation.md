@@ -16,7 +16,7 @@ As a group, we gathered and read through the project brief in the first week of 
 
 * A guide to bars in Manchester.
 * A guide to driving as a student.
-* A guide to student accomodation in Manchester.
+* A guide to student accommodation in Manchester.
 * A guide to arranging student finance.
 * A guide to managing general finances.
 * A guide to having fun in Manchester.
