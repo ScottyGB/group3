@@ -10,6 +10,13 @@ _What are you trying to communicate with your site? A description of the project
 
 ## Business objectives/goals
 
+During the client briefing, we outlined an overall objective along with several goals. We discussed these outcomes and converted them into user requirements so we can easily track whether the website we are creating will meet the requirements of our users.
+
+As a student, I can access information on affordable fun activites to do in Manchester, So that I can attend them.
+As a student, I can access information on affordable student activities in Manchester, So that I can attend them.
+As a student, I can find new activities to do in Manchester, So that I can enrich my 
+
+
 _List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
 
 ## Primary audience(s)
